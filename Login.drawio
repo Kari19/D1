@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FCBVg89ZFEz5y27hzP2G-1" value="&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="20" width="410" height="750" as="geometry" />
+          <mxGeometry x="195" y="20" width="375" height="520" as="geometry" />
         </mxCell>
         <mxCell id="FCBVg89ZFEz5y27hzP2G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="FCBVg89ZFEz5y27hzP2G-2" target="FCBVg89ZFEz5y27hzP2G-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCBVg89ZFEz5y27hzP2G-8" value="System shows map with incidents reported" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FCBVg89ZFEz5y27hzP2G-8" value="Shows map with incidents reported" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FCBVg89ZFEz5y27hzP2G-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" parent="1" source="FCBVg89ZFEz5y27hzP2G-19" target="FCBVg89ZFEz5y27hzP2G-8" edge="1">
@@ -46,11 +46,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCBVg89ZFEz5y27hzP2G-19" value="system tracks the user&#39;s location, in real time" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FCBVg89ZFEz5y27hzP2G-19" value="Tracks the user&#39;s location, in real time" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0lvFHwBWFy-okR7_8ojh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="0lvFHwBWFy-okR7_8ojh-14" target="FCBVg89ZFEz5y27hzP2G-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lvFHwBWFy-okR7_8ojh-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0lvFHwBWFy-okR7_8ojh-15">
+          <mxGeometry x="0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0lvFHwBWFy-okR7_8ojh-14" value="Reports an emergency" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="140" height="70" as="geometry" />
