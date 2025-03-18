@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="85" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="46PUhxlQu6H4vRm4sZMM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="20" width="390" height="430" as="geometry" />
+          <mxGeometry x="210" y="20" width="390" height="520" as="geometry" />
         </mxCell>
         <mxCell id="46PUhxlQu6H4vRm4sZMM-3" value="SOS subsystem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="20" width="60" height="30" as="geometry" />
@@ -35,11 +35,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="46PUhxlQu6H4vRm4sZMM-6" value="Live location sharing and categorised as high priority visible to users nearby and authorities" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="46PUhxlQu6H4vRm4sZMM-6" value="share live location and categorise as high priority and authorities" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="300" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="46PUhxlQu6H4vRm4sZMM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="46PUhxlQu6H4vRm4sZMM-1" target="46PUhxlQu6H4vRm4sZMM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfVf4vk-PR4hCnkrrfr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZqfVf4vk-PR4hCnkrrfr-1" target="46PUhxlQu6H4vRm4sZMM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqfVf4vk-PR4hCnkrrfr-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZqfVf4vk-PR4hCnkrrfr-2">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqfVf4vk-PR4hCnkrrfr-1" value="Notify nearby users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
