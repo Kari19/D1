@@ -141,6 +141,21 @@ These requirements apply to all emergency services (Fire, Police, Healthcare):
 
 ## 3.  Identification and Prioritization of Use Cases
 
+![Login use case](./Login.drawio.svg)
+
+![Registration use case](./Registration.drawio.svg)
+
+![Emergency reporting use case](./emergencyReporting.drawio.svg)
+
+![Dispatch use case](./dispatch.drawio.svg)
+
+![Reporting use case](./Reporting.drawio.svg)
+
+![Receive report use case](./receiveReport.drawio.svg)
+
+![SOS use case](./SOS.drawio.svg)
+
+
 ## 4.  Feasibility and Risk Study
 #### 4.1 System Feasibility
 * Existing Systems Comparison:
