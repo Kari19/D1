@@ -3,4 +3,7 @@ title: "Deliverable 1"
 author: "Xenin clan - Mosiane K, Dikotsi NK, Mabunda N, Mojakgomo LM"
 date: "2025-02-19"
 toc: true
+header-includes:
+  - \usepackage{float}
+  - \usepackage{graphicx}
 ---
