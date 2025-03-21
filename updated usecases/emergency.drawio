@@ -52,7 +52,7 @@
           <mxGeometry x="320" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1gW6d7CE8IsAEwsG7x0k-14" value="dispatch response teams" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="310" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
